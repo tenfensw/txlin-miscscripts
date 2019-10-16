@@ -1,0 +1,13 @@
+= txlin-miscscripts
+
+Various configuration and installation-related scripts for TXLin.
+
+== You'll need
+
+[squares]
+- Perl 5.10 or newer
+- Ruby 2.1 or newer
+
+== License
+
+MIT
